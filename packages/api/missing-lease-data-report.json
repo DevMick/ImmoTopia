@@ -1,0 +1,581 @@
+{
+  "generatedAt": "2026-01-08T10:19:30.485Z",
+  "totalChecked": 34,
+  "totalWithMissingData": 30,
+  "totalComplete": 4,
+  "reports": [
+    {
+      "leaseId": "c2fbfb61-f530-43d5-a47a-d2e645cff2c3",
+      "leaseNumber": "BAIL-2026-0008",
+      "tenantId": "e3e428d1-364b-42c9-a102-a22daa9329c5",
+      "tenantName": "Agence Immobilière du Mali",
+      "missingFields": {
+        "bien": {
+          "address": true,
+          "rooms": true,
+          "bedrooms": true
+        }
+      },
+      "urls": {
+        "leaseUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/rental/leases/c2fbfb61-f530-43d5-a47a-d2e645cff2c3",
+        "tenantSettingsUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/settings",
+        "propertyEditUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/properties/50db45b9-47b6-47a0-bab5-74d5404a5473/edit",
+        "locataireContactUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/crm/contacts/8eae3f25-4792-487c-b5d8-a7887f54531a",
+        "bailleurContactUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/crm/contacts/3df5df48-418a-4c2b-b9ab-6158f959d6a4"
+      }
+    },
+    {
+      "leaseId": "8fc55b2f-1700-40ce-a33a-53e575709e28",
+      "leaseNumber": "BAIL-2026-0003",
+      "tenantId": "e3e428d1-364b-42c9-a102-a22daa9329c5",
+      "tenantName": "Agence Immobilière du Mali",
+      "missingFields": {
+        "bien": {
+          "address": true,
+          "rooms": true,
+          "bedrooms": true
+        }
+      },
+      "urls": {
+        "leaseUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/rental/leases/8fc55b2f-1700-40ce-a33a-53e575709e28",
+        "tenantSettingsUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/settings",
+        "propertyEditUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/properties/211a61f2-c23f-45f7-843c-6aefc3ab43f4/edit",
+        "locataireContactUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/crm/contacts/07cd6198-4d8d-481f-bf5b-6ffc0e8b30f6",
+        "bailleurContactUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/crm/contacts/3e15a5e5-608c-4f8d-b09e-d37dcd254af8"
+      }
+    },
+    {
+      "leaseId": "a257de15-cf10-480b-940b-6f8dc02a8395",
+      "leaseNumber": "BAIL-2026-0002",
+      "tenantId": "e3e428d1-364b-42c9-a102-a22daa9329c5",
+      "tenantName": "Agence Immobilière du Mali",
+      "missingFields": {
+        "bien": {
+          "address": true,
+          "rooms": true,
+          "bedrooms": true
+        }
+      },
+      "urls": {
+        "leaseUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/rental/leases/a257de15-cf10-480b-940b-6f8dc02a8395",
+        "tenantSettingsUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/settings",
+        "propertyEditUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/properties/50db45b9-47b6-47a0-bab5-74d5404a5473/edit",
+        "locataireContactUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/crm/contacts/f7ebd0b6-53fe-44db-810b-0b8c7db9ea49",
+        "bailleurContactUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/crm/contacts/3df5df48-418a-4c2b-b9ab-6158f959d6a4"
+      }
+    },
+    {
+      "leaseId": "23cf4949-ad71-444e-8dab-6bc7ac3b6e73",
+      "leaseNumber": "BAIL-2026-0001",
+      "tenantId": "e3e428d1-364b-42c9-a102-a22daa9329c5",
+      "tenantName": "Agence Immobilière du Mali",
+      "missingFields": {
+        "bien": {
+          "address": true,
+          "rooms": true,
+          "bedrooms": true
+        }
+      },
+      "urls": {
+        "leaseUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/rental/leases/23cf4949-ad71-444e-8dab-6bc7ac3b6e73",
+        "tenantSettingsUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/settings",
+        "propertyEditUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/properties/211a61f2-c23f-45f7-843c-6aefc3ab43f4/edit",
+        "locataireContactUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/crm/contacts/9215b73a-2296-44fb-a845-74be78f349c0"
+      }
+    },
+    {
+      "leaseId": "808b8f03-4eb1-40ea-bf82-ab3890d046ce",
+      "leaseNumber": "1244",
+      "tenantId": "e3e428d1-364b-42c9-a102-a22daa9329c5",
+      "tenantName": "Agence Immobilière du Mali",
+      "missingFields": {
+        "bien": {
+          "address": true,
+          "rooms": true,
+          "bedrooms": true
+        }
+      },
+      "urls": {
+        "leaseUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/rental/leases/808b8f03-4eb1-40ea-bf82-ab3890d046ce",
+        "tenantSettingsUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/settings",
+        "propertyEditUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/properties/211a61f2-c23f-45f7-843c-6aefc3ab43f4/edit",
+        "locataireContactUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/crm/contacts/9215b73a-2296-44fb-a845-74be78f349c0"
+      }
+    },
+    {
+      "leaseId": "92b3a0db-e92c-49f1-8818-1916fe9bf5b7",
+      "leaseNumber": "BAIL-2025-0025",
+      "tenantId": "e3e428d1-364b-42c9-a102-a22daa9329c5",
+      "tenantName": "Agence Immobilière du Mali",
+      "missingFields": {
+        "locataire": {
+          "phone": true
+        },
+        "bailleur": {
+          "phone": true
+        }
+      },
+      "urls": {
+        "leaseUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/rental/leases/92b3a0db-e92c-49f1-8818-1916fe9bf5b7",
+        "tenantSettingsUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/settings",
+        "propertyEditUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/properties/c03d6c9a-7090-4ad4-b9ed-464e1995214f/edit"
+      }
+    },
+    {
+      "leaseId": "4b79c483-92dd-4a84-a74c-6c24cdadcb75",
+      "leaseNumber": "BAIL-2025-0024",
+      "tenantId": "e3e428d1-364b-42c9-a102-a22daa9329c5",
+      "tenantName": "Agence Immobilière du Mali",
+      "missingFields": {
+        "locataire": {
+          "phone": true
+        },
+        "bailleur": {
+          "phone": true
+        }
+      },
+      "urls": {
+        "leaseUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/rental/leases/4b79c483-92dd-4a84-a74c-6c24cdadcb75",
+        "tenantSettingsUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/settings",
+        "propertyEditUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/properties/bc52bdf4-4cd7-4eae-8936-48d8f0c8d138/edit"
+      }
+    },
+    {
+      "leaseId": "a5033440-72b2-4aba-9a42-2735e2333474",
+      "leaseNumber": "BAIL-2025-0023",
+      "tenantId": "e3e428d1-364b-42c9-a102-a22daa9329c5",
+      "tenantName": "Agence Immobilière du Mali",
+      "missingFields": {
+        "locataire": {
+          "phone": true
+        },
+        "bailleur": {
+          "phone": true
+        }
+      },
+      "urls": {
+        "leaseUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/rental/leases/a5033440-72b2-4aba-9a42-2735e2333474",
+        "tenantSettingsUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/settings",
+        "propertyEditUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/properties/9d6eaa30-ab36-4499-b601-4ce46efbec0f/edit"
+      }
+    },
+    {
+      "leaseId": "acc8e338-ea16-44d3-ad14-5d95b2c5158f",
+      "leaseNumber": "BAIL-2025-0022",
+      "tenantId": "e3e428d1-364b-42c9-a102-a22daa9329c5",
+      "tenantName": "Agence Immobilière du Mali",
+      "missingFields": {
+        "locataire": {
+          "phone": true
+        },
+        "bailleur": {
+          "phone": true
+        }
+      },
+      "urls": {
+        "leaseUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/rental/leases/acc8e338-ea16-44d3-ad14-5d95b2c5158f",
+        "tenantSettingsUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/settings",
+        "propertyEditUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/properties/e2868469-d296-40a2-8374-cc80c0e0c14e/edit"
+      }
+    },
+    {
+      "leaseId": "ed746632-e5b5-49cd-bbb4-0d3243e16e5f",
+      "leaseNumber": "BAIL-2025-0021",
+      "tenantId": "e3e428d1-364b-42c9-a102-a22daa9329c5",
+      "tenantName": "Agence Immobilière du Mali",
+      "missingFields": {
+        "locataire": {
+          "phone": true
+        },
+        "bailleur": {
+          "phone": true
+        }
+      },
+      "urls": {
+        "leaseUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/rental/leases/ed746632-e5b5-49cd-bbb4-0d3243e16e5f",
+        "tenantSettingsUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/settings",
+        "propertyEditUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/properties/a7a63ef3-087b-43d8-8b9b-62be8cd2f038/edit"
+      }
+    },
+    {
+      "leaseId": "a8239504-3d1e-4d75-a4da-091db0d19114",
+      "leaseNumber": "BAIL-2025-0020",
+      "tenantId": "e3e428d1-364b-42c9-a102-a22daa9329c5",
+      "tenantName": "Agence Immobilière du Mali",
+      "missingFields": {
+        "locataire": {
+          "phone": true
+        },
+        "bailleur": {
+          "phone": true
+        }
+      },
+      "urls": {
+        "leaseUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/rental/leases/a8239504-3d1e-4d75-a4da-091db0d19114",
+        "tenantSettingsUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/settings",
+        "propertyEditUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/properties/4f00e9b9-0635-4458-8ebd-59a0330176d6/edit"
+      }
+    },
+    {
+      "leaseId": "f448a4a9-217c-4664-ade7-f45b4d52ada9",
+      "leaseNumber": "BAIL-2025-0019",
+      "tenantId": "e3e428d1-364b-42c9-a102-a22daa9329c5",
+      "tenantName": "Agence Immobilière du Mali",
+      "missingFields": {
+        "locataire": {
+          "phone": true
+        },
+        "bailleur": {
+          "phone": true
+        }
+      },
+      "urls": {
+        "leaseUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/rental/leases/f448a4a9-217c-4664-ade7-f45b4d52ada9",
+        "tenantSettingsUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/settings",
+        "propertyEditUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/properties/36ae87b4-cdfa-4e5c-b238-cb8ea43350ff/edit"
+      }
+    },
+    {
+      "leaseId": "19bb7624-7683-4361-9d0f-55a29d353c51",
+      "leaseNumber": "BAIL-2025-0018",
+      "tenantId": "e3e428d1-364b-42c9-a102-a22daa9329c5",
+      "tenantName": "Agence Immobilière du Mali",
+      "missingFields": {
+        "locataire": {
+          "phone": true
+        },
+        "bailleur": {
+          "phone": true
+        }
+      },
+      "urls": {
+        "leaseUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/rental/leases/19bb7624-7683-4361-9d0f-55a29d353c51",
+        "tenantSettingsUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/settings",
+        "propertyEditUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/properties/f4e46ba7-ab6d-44d6-b834-96080470f6f6/edit"
+      }
+    },
+    {
+      "leaseId": "5e686b27-ddf6-4330-b884-dba7b4b5c508",
+      "leaseNumber": "BAIL-2025-0017",
+      "tenantId": "e3e428d1-364b-42c9-a102-a22daa9329c5",
+      "tenantName": "Agence Immobilière du Mali",
+      "missingFields": {
+        "locataire": {
+          "phone": true
+        },
+        "bailleur": {
+          "phone": true
+        }
+      },
+      "urls": {
+        "leaseUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/rental/leases/5e686b27-ddf6-4330-b884-dba7b4b5c508",
+        "tenantSettingsUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/settings",
+        "propertyEditUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/properties/b37350be-e6ac-440b-a6a7-250e61d3d0d9/edit"
+      }
+    },
+    {
+      "leaseId": "becad355-1a28-4d73-8f2a-efc4a884889c",
+      "leaseNumber": "BAIL-2025-0016",
+      "tenantId": "e3e428d1-364b-42c9-a102-a22daa9329c5",
+      "tenantName": "Agence Immobilière du Mali",
+      "missingFields": {
+        "locataire": {
+          "phone": true
+        },
+        "bailleur": {
+          "phone": true
+        }
+      },
+      "urls": {
+        "leaseUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/rental/leases/becad355-1a28-4d73-8f2a-efc4a884889c",
+        "tenantSettingsUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/settings",
+        "propertyEditUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/properties/b3be9000-7d02-4167-b0ba-f9409f3845cb/edit"
+      }
+    },
+    {
+      "leaseId": "5607a334-bdbe-45f5-9a90-283b49da9af3",
+      "leaseNumber": "BAIL-2025-0015",
+      "tenantId": "e3e428d1-364b-42c9-a102-a22daa9329c5",
+      "tenantName": "Agence Immobilière du Mali",
+      "missingFields": {
+        "locataire": {
+          "phone": true
+        },
+        "bailleur": {
+          "phone": true
+        }
+      },
+      "urls": {
+        "leaseUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/rental/leases/5607a334-bdbe-45f5-9a90-283b49da9af3",
+        "tenantSettingsUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/settings",
+        "propertyEditUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/properties/ede50193-edc3-4294-8180-7489962e1a23/edit"
+      }
+    },
+    {
+      "leaseId": "1d3df33f-6e97-417a-9350-5bb885d74607",
+      "leaseNumber": "BAIL-2025-0014",
+      "tenantId": "e3e428d1-364b-42c9-a102-a22daa9329c5",
+      "tenantName": "Agence Immobilière du Mali",
+      "missingFields": {
+        "locataire": {
+          "phone": true
+        },
+        "bailleur": {
+          "phone": true
+        }
+      },
+      "urls": {
+        "leaseUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/rental/leases/1d3df33f-6e97-417a-9350-5bb885d74607",
+        "tenantSettingsUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/settings",
+        "propertyEditUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/properties/89c6a12e-49cc-4135-868e-66169a4ae925/edit"
+      }
+    },
+    {
+      "leaseId": "3f9af68f-9448-40aa-ba82-4abbbe5f5f96",
+      "leaseNumber": "BAIL-2025-0013",
+      "tenantId": "e3e428d1-364b-42c9-a102-a22daa9329c5",
+      "tenantName": "Agence Immobilière du Mali",
+      "missingFields": {
+        "locataire": {
+          "phone": true
+        },
+        "bailleur": {
+          "phone": true
+        }
+      },
+      "urls": {
+        "leaseUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/rental/leases/3f9af68f-9448-40aa-ba82-4abbbe5f5f96",
+        "tenantSettingsUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/settings",
+        "propertyEditUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/properties/2f8814e1-b126-4c83-969f-27029a8a21cb/edit"
+      }
+    },
+    {
+      "leaseId": "ac70c8c5-2ed5-40f2-af3d-1c9bcf269592",
+      "leaseNumber": "BAIL-2025-0012",
+      "tenantId": "e3e428d1-364b-42c9-a102-a22daa9329c5",
+      "tenantName": "Agence Immobilière du Mali",
+      "missingFields": {
+        "locataire": {
+          "phone": true
+        },
+        "bailleur": {
+          "phone": true
+        }
+      },
+      "urls": {
+        "leaseUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/rental/leases/ac70c8c5-2ed5-40f2-af3d-1c9bcf269592",
+        "tenantSettingsUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/settings",
+        "propertyEditUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/properties/9cf350b5-49f2-43ce-833b-2e982d09ef6b/edit"
+      }
+    },
+    {
+      "leaseId": "8504f24b-3633-43f2-8fec-d4e2305deffc",
+      "leaseNumber": "BAIL-2025-0011",
+      "tenantId": "e3e428d1-364b-42c9-a102-a22daa9329c5",
+      "tenantName": "Agence Immobilière du Mali",
+      "missingFields": {
+        "locataire": {
+          "phone": true
+        },
+        "bailleur": {
+          "phone": true
+        }
+      },
+      "urls": {
+        "leaseUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/rental/leases/8504f24b-3633-43f2-8fec-d4e2305deffc",
+        "tenantSettingsUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/settings",
+        "propertyEditUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/properties/26052d33-6755-4095-9f15-0450b3498e93/edit"
+      }
+    },
+    {
+      "leaseId": "a8c3102f-4483-41ee-a4c9-f0d603365254",
+      "leaseNumber": "BAIL-2025-0010",
+      "tenantId": "e3e428d1-364b-42c9-a102-a22daa9329c5",
+      "tenantName": "Agence Immobilière du Mali",
+      "missingFields": {
+        "locataire": {
+          "phone": true
+        },
+        "bailleur": {
+          "phone": true
+        }
+      },
+      "urls": {
+        "leaseUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/rental/leases/a8c3102f-4483-41ee-a4c9-f0d603365254",
+        "tenantSettingsUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/settings",
+        "propertyEditUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/properties/df27cdee-cc14-4883-8a7b-3e5ff04860d5/edit"
+      }
+    },
+    {
+      "leaseId": "dc519368-4abc-4baf-8694-bbffa87b9c65",
+      "leaseNumber": "BAIL-2025-0009",
+      "tenantId": "e3e428d1-364b-42c9-a102-a22daa9329c5",
+      "tenantName": "Agence Immobilière du Mali",
+      "missingFields": {
+        "locataire": {
+          "phone": true
+        },
+        "bailleur": {
+          "phone": true
+        }
+      },
+      "urls": {
+        "leaseUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/rental/leases/dc519368-4abc-4baf-8694-bbffa87b9c65",
+        "tenantSettingsUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/settings",
+        "propertyEditUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/properties/e9796ba1-e7d7-4dfa-912f-0c378c149713/edit"
+      }
+    },
+    {
+      "leaseId": "b224ec8a-6c19-4d70-bdec-7822bb857a3c",
+      "leaseNumber": "BAIL-2025-0008",
+      "tenantId": "e3e428d1-364b-42c9-a102-a22daa9329c5",
+      "tenantName": "Agence Immobilière du Mali",
+      "missingFields": {
+        "locataire": {
+          "phone": true
+        },
+        "bailleur": {
+          "phone": true
+        }
+      },
+      "urls": {
+        "leaseUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/rental/leases/b224ec8a-6c19-4d70-bdec-7822bb857a3c",
+        "tenantSettingsUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/settings",
+        "propertyEditUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/properties/ebe039f5-a0e8-4812-b686-f506578799d3/edit"
+      }
+    },
+    {
+      "leaseId": "4f9bd344-263b-48f9-8fe9-afd413d29ef6",
+      "leaseNumber": "BAIL-2025-0007",
+      "tenantId": "e3e428d1-364b-42c9-a102-a22daa9329c5",
+      "tenantName": "Agence Immobilière du Mali",
+      "missingFields": {
+        "locataire": {
+          "phone": true
+        },
+        "bailleur": {
+          "phone": true
+        }
+      },
+      "urls": {
+        "leaseUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/rental/leases/4f9bd344-263b-48f9-8fe9-afd413d29ef6",
+        "tenantSettingsUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/settings",
+        "propertyEditUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/properties/e2868469-d296-40a2-8374-cc80c0e0c14e/edit"
+      }
+    },
+    {
+      "leaseId": "bb251df0-e763-4474-b383-f23a93d58ee4",
+      "leaseNumber": "BAIL-2025-0006",
+      "tenantId": "e3e428d1-364b-42c9-a102-a22daa9329c5",
+      "tenantName": "Agence Immobilière du Mali",
+      "missingFields": {
+        "locataire": {
+          "phone": true
+        },
+        "bailleur": {
+          "phone": true
+        }
+      },
+      "urls": {
+        "leaseUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/rental/leases/bb251df0-e763-4474-b383-f23a93d58ee4",
+        "tenantSettingsUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/settings",
+        "propertyEditUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/properties/93ccf433-871c-49bb-a0b0-88998562dd6d/edit"
+      }
+    },
+    {
+      "leaseId": "b8b88f36-2f7e-4c12-af26-48cc26b62ca7",
+      "leaseNumber": "BAIL-2025-0005",
+      "tenantId": "e3e428d1-364b-42c9-a102-a22daa9329c5",
+      "tenantName": "Agence Immobilière du Mali",
+      "missingFields": {
+        "locataire": {
+          "phone": true
+        },
+        "bailleur": {
+          "phone": true
+        }
+      },
+      "urls": {
+        "leaseUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/rental/leases/b8b88f36-2f7e-4c12-af26-48cc26b62ca7",
+        "tenantSettingsUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/settings",
+        "propertyEditUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/properties/b3be9000-7d02-4167-b0ba-f9409f3845cb/edit"
+      }
+    },
+    {
+      "leaseId": "1f7c47d7-0dad-463e-a3f2-58265cdfbf49",
+      "leaseNumber": "BAIL-2025-0004",
+      "tenantId": "e3e428d1-364b-42c9-a102-a22daa9329c5",
+      "tenantName": "Agence Immobilière du Mali",
+      "missingFields": {
+        "locataire": {
+          "phone": true
+        },
+        "bailleur": {
+          "phone": true
+        }
+      },
+      "urls": {
+        "leaseUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/rental/leases/1f7c47d7-0dad-463e-a3f2-58265cdfbf49",
+        "tenantSettingsUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/settings",
+        "propertyEditUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/properties/4f00e9b9-0635-4458-8ebd-59a0330176d6/edit"
+      }
+    },
+    {
+      "leaseId": "547564fa-2ace-43d1-9270-136462e696cb",
+      "leaseNumber": "BAIL-2025-0003",
+      "tenantId": "e3e428d1-364b-42c9-a102-a22daa9329c5",
+      "tenantName": "Agence Immobilière du Mali",
+      "missingFields": {
+        "locataire": {
+          "phone": true
+        },
+        "bailleur": {
+          "phone": true
+        }
+      },
+      "urls": {
+        "leaseUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/rental/leases/547564fa-2ace-43d1-9270-136462e696cb",
+        "tenantSettingsUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/settings",
+        "propertyEditUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/properties/26052d33-6755-4095-9f15-0450b3498e93/edit"
+      }
+    },
+    {
+      "leaseId": "e1e115be-a031-4090-97d7-9631f1830e11",
+      "leaseNumber": "BAIL-2025-0002",
+      "tenantId": "e3e428d1-364b-42c9-a102-a22daa9329c5",
+      "tenantName": "Agence Immobilière du Mali",
+      "missingFields": {
+        "locataire": {
+          "phone": true
+        },
+        "bailleur": {
+          "phone": true
+        }
+      },
+      "urls": {
+        "leaseUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/rental/leases/e1e115be-a031-4090-97d7-9631f1830e11",
+        "tenantSettingsUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/settings",
+        "propertyEditUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/properties/d809bde1-5bcd-4bdc-b7e7-96f1d9e1d4e1/edit"
+      }
+    },
+    {
+      "leaseId": "f97df8c7-6524-45c3-a576-2b0c59c3b49c",
+      "leaseNumber": "BAIL-2025-0001",
+      "tenantId": "e3e428d1-364b-42c9-a102-a22daa9329c5",
+      "tenantName": "Agence Immobilière du Mali",
+      "missingFields": {
+        "locataire": {
+          "phone": true
+        },
+        "bailleur": {
+          "phone": true
+        }
+      },
+      "urls": {
+        "leaseUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/rental/leases/f97df8c7-6524-45c3-a576-2b0c59c3b49c",
+        "tenantSettingsUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/settings",
+        "propertyEditUrl": "http://localhost:3000/tenant/e3e428d1-364b-42c9-a102-a22daa9329c5/properties/d809bde1-5bcd-4bdc-b7e7-96f1d9e1d4e1/edit"
+      }
+    }
+  ]
+}
